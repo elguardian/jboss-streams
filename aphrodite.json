@@ -4,7 +4,7 @@
     "initialDelay": 10,
     "issueTrackerConfigs": [
     {
-      "url": "https://redhat.atlassian.net/",
+      "url": "https://redhat.atlassian.net/,https://issues.redhat.com/",
       "username": "${{JIRA_USER}}",
       "password": "${{JIRA_PWD}}",
       "tracker": "JIRA",
